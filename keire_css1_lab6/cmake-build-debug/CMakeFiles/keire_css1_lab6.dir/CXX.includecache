@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxke/CLionProjects/css_1/keire_css1_lab6/keire_css1_lab6.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+

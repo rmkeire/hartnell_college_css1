@@ -1,0 +1,3 @@
+C:/Users/maxke/CLionProjects/css_1/keire_css1_lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maxke/CLionProjects/css_1/keire_css1_lab7/cmake-build-debug/CMakeFiles/keire_css1_lab7.dir
+C:/Users/maxke/CLionProjects/css_1/keire_css1_lab7/cmake-build-debug/CMakeFiles/edit_cache.dir

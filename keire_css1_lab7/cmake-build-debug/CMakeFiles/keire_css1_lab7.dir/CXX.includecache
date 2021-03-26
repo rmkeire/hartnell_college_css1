@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxke/CLionProjects/css_1/keire_css1_lab7/keire_css1_lab7.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+string
+-
+
