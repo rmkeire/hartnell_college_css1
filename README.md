@@ -1,1 +1,1 @@
-# hartnell_college_css1
+# CSS1: Introduction to Computer Science
